@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>997274190577-79mt0hs7hkkgt4k7629vcmuccaf7pnae.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.997274190577-79mt0hs7hkkgt4k7629vcmuccaf7pnae</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDRIC-GCqizLxD_ci2SCp2pP-NW-Q4QMUM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>997274190577</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.helloWorld3</string>
+	<key>PROJECT_ID</key>
+	<string>hello-world3-9152c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hello-world3-9152c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:997274190577:ios:114622aeae9ea1615c5f50</string>
+	<key>DATABASE_URL</key>
+	<string>https://hello-world3-9152c.firebaseio.com</string>
+</dict>
+</plist>
